@@ -1,0 +1,55 @@
+.main{
+      display: flex;
+      flex-direction: row;
+      color: white;
+      font-family: 'Roboto';
+}
+.logo{
+    padding: 20px;
+}
+h1, h2{
+      color:turquoise;
+      font-family: 'Roboto';
+      font-weight: normal;
+}
+h1{
+    font-size: 3.5em;
+    margin: 25px 0px 5px 25px;
+}
+h2{
+    font-size: 30px;
+}
+.para{
+    padding: 27px;
+}
+p{
+    margin: 0px;
+}
+.icons{
+    float: right;
+    display: flex;
+    flex-direction: row;
+    margin-top: 90px;
+}
+.icon{
+    color: turquoise;
+    float: right;
+    height: 56px;
+    width: 33px;
+}
+.icon:hover{
+    color: white;
+}
+.symbol{
+    padding: 20px;
+}
+.hamburger{
+    color: white;
+    float: right;
+    height: 63px;
+    width: 32px;
+    padding: 10px;
+}
+.hamburger:hover{
+    color: turquoise;
+}
